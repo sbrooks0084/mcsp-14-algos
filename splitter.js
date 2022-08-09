@@ -1,0 +1,20 @@
+// Write the splitter function that: 
+
+// Takes in an array and a num
+// returns an array of subarray of length num
+
+// notes:
+
+    // Subarrays cannot have a length of > num
+    // sub array CAN have a length that is <= num
+
+function splitter(arr, num) {
+    // your code here
+}
+
+const arr = [1,2,3,4,5,6,7,8,9]
+const num = 3
+
+// what 
+
+// console.log(splitter(arr, num))
