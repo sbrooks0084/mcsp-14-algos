@@ -15,6 +15,6 @@ function splitter(arr, num) {
 const arr = [1,2,3,4,5,6,7,8,9]
 const num = 3
 
-// what 
+// should return [[1,2,3], [4,5,6], [7,8,9], [10]]
 
-// console.log(splitter(arr, num))
+console.log(splitter(arr, num))
